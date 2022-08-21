@@ -14,5 +14,5 @@ def multiply(a, b):
 >>>>>>> 171dd9dca05ae42df51743bae5b8adefed772f04
 
 
-def divide(a, b):  
+def divide_premium(a, b):  
     return a/b
